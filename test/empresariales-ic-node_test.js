@@ -6,7 +6,7 @@ var assert = require('should');
 describe('empresarialesIcNode', function () {
 
   it('should be awesome', function () {
-    empresarialesIcNode().should.equal('awesome2');
+    empresarialesIcNode().should.equal('awesome');
   });
 
 });
